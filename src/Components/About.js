@@ -13,7 +13,7 @@ class About extends Component {
                <div className="nine columns main-col">
                   <h3> 発起人 : SoSo </h3>
                   <p> Web系から機械学習まで何でも教えます! まったくの初心者でも! 特に費用もかからないのでスクールに通う前にぜひ来てみてください! </p>
-                  <p> 個人のホームページ :  <a href="http://www.google.co.jp/"><img src={sosoweb}/></a> </p>
+                  <p> 個人のホームページ :  <a href="https://main.d3umo865zsgz63.amplifyapp.com/"><img src={sosoweb}/></a> </p>
                   <p >
                      連絡先 : rp0035pp[AtMarkを入れてください]gmail.com
                   </p>
